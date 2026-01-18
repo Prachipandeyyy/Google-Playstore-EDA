@@ -7,17 +7,20 @@ Overall, this exploratory analysis aims to provide a comprehensive understanding
 ### **Key Findings:**
 Here are the key findings from the analysis:
 
-**1.Top 10 App Categories**
+1.Top 10 App Categories
 
-**2.Most Installed Categories**
+2.Most Installed Categories
 
-**3.Most Installed Apps in top 4 Categories**
+3.Most Installed Apps in top 4 Categories
 
-**4.Apps with 5.0 ratings**
+4.Apps with 5.0 ratings
 
 **Univariate Analysis of Numerical Features-**   
+
         1. Day and Month have a **normal distribution**
+        
         2. Reviews, Size, Installs, Price are **right-skewed**
+        
         3. Ratings, Last Updated, Year are **left-skewed**
 
 
