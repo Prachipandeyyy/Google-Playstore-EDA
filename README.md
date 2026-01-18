@@ -4,6 +4,34 @@ This repository presents an exploratory data analysis of the Google Play Store d
 The initial phase of the analysis involves loading the dataset and performing data cleaning and preprocessing, such as handling missing values, correcting data types, and transforming categorical and numerical features. Through this analysis, meaningful insights are extracted to understand app market dynamics and user behavior.
 Overall, this exploratory analysis aims to provide a comprehensive understanding of trends, patterns, and performance indicators within the Google Play Store ecosystem.
 
+
+### 📂 Dataset
+- **Source:** Google Play Store Dataset (Kaggle)
+- **Records:** ~10,000 mobile applications
+- **Key Features:**
+  - App
+  - Category
+  - Rating
+  - Reviews
+  - Installs
+  - Size
+  - Type
+  - Price
+  - Content Rating
+
+### 🔍 EDA Objectives
+- Analyze the distribution
+- Checking the dataset for missing values, duplicates,null values etc.
+- Analyze the distribution of applications across different categories
+- Study install trends and category-wise popularity
+- Identify and analyze rare 5-star rated applications
+
+## 📊 Visualizations
+- Bar plots 
+- Histogram 
+- Pie charts
+- Tabular visualization 
+
 ### **Key Findings:**
 Here are the key findings from the analysis:
 
@@ -14,14 +42,6 @@ Here are the key findings from the analysis:
 3.Most Installed Apps in top 4 Categories
 
 4.Apps with 5.0 ratings
-
-**Univariate Analysis of Numerical Features-**   
-
-        1. Day and Month have a **normal distribution**
-        
-        2. Reviews, Size, Installs, Price are **right-skewed**
-        
-        3. Ratings, Last Updated, Year are **left-skewed**
 
 
 ### Technologies Used:
